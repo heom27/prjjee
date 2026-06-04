@@ -4,5 +4,14 @@
   {"id":"y3","name":"Ahmet Hamdi Tanpınar","shortBio_tr":"Zaman, hafıza ve estetik üzerine derin düşünceler sunan yazar. Doğu-Batı sentezini en iyi yansıtan edebiyatçılardan biri.","image":"/images/tanpinar.jpg"},
   {"id":"y4","name":"Sait Faik Abasıyanık","shortBio_tr":"İstanbul sokaklarını, balıkçıları ve sıradan insanları anlatan hikâyeci. İnsan sevgisiyle dolu, gözlemci bir yazar.","image":"/images/sait-faik.jpg"},
   {"id":"y5","name":"Halide Edip Adıvar","shortBio_tr":"Millî mücadelenin cesur kalemi, kadın hakları savunucusu ve toplumsal dönüşüm yazarı. Tarihi romanlarıyla tanınır.","image":"/images/halide-edip.jpg"},
-  {"id":"y6","name":"Cemal Süreya","shortBio_tr":"İkinci Yeni akımının lirik ve duygusal şairi. Aşk, yalnızlık ve özlem temalarını çarpıcı imgelerle işleyen usta bir kalem.","image":"/images/cemal-sureya.jpg"}
+  {"id":"y6","name":"Cemal Süreya","shortBio_tr":"İkinci Yeni akımının lirik ve duygusal şairi. Aşk, yalnızlık ve özlem temalarını çarpıcı imgelerle işleyen usta bir kalem.","image":"/images/cemal-sureya.jpg"},
+  {"id":"y7","name":"Sabahattin Ali","shortBio_tr":"Toplumsal gerçekçi çizgisini romantizmle birleştiren yazar. İnsanın iç dünyasını ve aşkı en sarsıcı şekilde anlatır.","image":"/images/sabahattin-ali.jpg"},
+  {"id":"y8","name":"Yaşar Kemal","shortBio_tr":"Anadolu insanının destansı hikayesini evrensel bir boyuta taşıyan usta. Doğa ve insan betimlemelerinde rakipsizdir.","image":"/images/yasar-kemal.jpg"},
+  {"id":"y9","name":"Nazım Hikmet","shortBio_tr":"Dünyaca ünlü romantik devrimci şairimiz. Serbest nazımın ustası, aşkın ve memleket hasretinin evrensel sesi.","image":"/images/nazim-hikmet.jpg"},
+  {"id":"y10","name":"Oğuz Atay","shortBio_tr":"Modern Türk edebiyatının öncüsü. Aydınların bunalımını, ironiyi ve iç çatışmaları postmodern bir dille kurgular.","image":"/images/oguz-atay.jpg"},
+  {"id":"y11","name":"Reşat Nuri Güntekin","shortBio_tr":"Anadolu'nun ücra köşelerindeki hayatı ve idealist karakterleri sade, akıcı bir Türkçeyle anlatan usta romancı.","image":"/images/resat-nuri.jpg"},
+  {"id":"y12","name":"Tevfik Fikret","shortBio_tr":"Servet-i Fünun şiirinin zirvesi. Fikri hür, vicdanı hür anlayışıyla hem bireysel melankoliyi hem toplumsal isyanı yazdı.","image":"/images/tevfik-fikret.jpg"},
+  {"id":"y13","name":"Attila İlhan","shortBio_tr":"Hem coşkulu bir aşk şairi hem de keskin bir düşünür. Sinematografik şiirleri ve serüven dolu romanlarıyla bilinir.","image":"/images/attila-ilhan.jpg"},
+  {"id":"y14","name":"Yahya Kemal Beyatlı","shortBio_tr":"İstanbul'un, tarihin ve musıkînin şairi. Kusursuz ritim ve ahenk arayışıyla neo-klasik Türk şiirinin kurucusudur.","image":"/images/yahya-kemal.jpg"},
+  {"id":"y15","name":"Peyami Safa","shortBio_tr":"Psikolojik tahlillerin büyük ustası. Doğu-Batı çatışmasını ve insan ruhunun karanlık dehlizlerini sarsıcı bir dille işler.","image":"/images/peyami-safa.jpg"}
 ]

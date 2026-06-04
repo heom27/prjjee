@@ -5,8 +5,10 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { ArrowRight, BookOpen, Sparkles } from 'lucide-react';
 
 const AUTHORS = [
-  'Namık Kemal', 'Orhan Veli', 'Tanpınar',
-  'Sait Faik', 'Halide Edip', 'Cemal Süreya'
+  'Namık Kemal', 'Orhan Veli', 'Tanpınar', 'Sait Faik', 'Halide Edip', 
+  'Cemal Süreya', 'Sabahattin Ali', 'Yaşar Kemal', 'Nazım Hikmet', 
+  'Oğuz Atay', 'Reşat Nuri', 'Tevfik Fikret', 'Attila İlhan', 
+  'Yahya Kemal', 'Peyami Safa'
 ];
 
 export default function Home() {
