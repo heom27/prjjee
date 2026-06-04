@@ -29,34 +29,38 @@ export async function POST(request) {
 
     const { scores, winner } = scoreAnswers(answers, questions, authors);
 
-    const ipHash = crypto.createHash('sha256').update(ip).digest('hex').slice(0, 16);
+    const ip2 = getClientIp(request);
+    const ipHash = crypto.createHash('sha256').update(ip2).digest('hex').slice(0, 16);
     const emailHash = userEmail
       ? crypto.createHash('sha256').update(userEmail.toLowerCase().trim()).digest('hex').slice(0, 16)
       : null;
 
-    const submission = saveSubmission({
-      userEmailHash: emailHash,
-      answers,
-      scores,
-      winner,
-      questionVersion: version,
-      ipHash,
-    });
+    // Try to save submission — don't crash if Vercel FS is read-only
+    let submissionId = `sub_${Math.random().toString(36).substring(2, 10)}`;
+    try {
+      const submission = saveSubmission({
+        userEmailHash: emailHash,
+        answers,
+        scores,
+        winner,
+        questionVersion: version,
+        ipHash,
+      });
+      submissionId = submission.id;
+    } catch (saveErr) {
+      console.warn('[Submit] Could not save submission (read-only FS):', saveErr.message);
+    }
 
-    // Send email in background (don't block response)
+    // Send email — always attempt regardless of save result
     const winnerAuthor = authors.find(a => a.id === winner.id);
     if (userEmail && winnerAuthor) {
       sendResultEmail(userEmail, winner, winnerAuthor, scores).catch(err =>
-        console.error('[Submit] Email error:', err)
+        console.error('[Submit] Email error:', err.message)
       );
     }
 
     return NextResponse.json(
-      {
-        submissionId: submission.id,
-        scores,
-        winner,
-      },
+      { submissionId, scores, winner },
       { headers: { 'X-RateLimit-Remaining': String(remaining) } }
     );
   } catch (error) {
