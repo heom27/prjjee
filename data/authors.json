@@ -1,0 +1,8 @@
+[
+  {"id":"y1","name":"Namık Kemal","shortBio_tr":"Vatan şairi olarak bilinen, özgürlük ve mücadele temalı güçlü bir kaleme sahip edebiyatçı. Toplumsal sorunlara cesurca değinen idealist bir yazar.","image":"/images/namik-kemal.jpg"},
+  {"id":"y2","name":"Orhan Veli Kanık","shortBio_tr":"Garip akımının öncüsü, gündelik hayatı sade ve samimi bir dille anlatan şair. Şiiri sokağa indiren devrimci bir ses.","image":"/images/orhan-veli.jpg"},
+  {"id":"y3","name":"Ahmet Hamdi Tanpınar","shortBio_tr":"Zaman, hafıza ve estetik üzerine derin düşünceler sunan yazar. Doğu-Batı sentezini en iyi yansıtan edebiyatçılardan biri.","image":"/images/tanpinar.jpg"},
+  {"id":"y4","name":"Sait Faik Abasıyanık","shortBio_tr":"İstanbul sokaklarını, balıkçıları ve sıradan insanları anlatan hikâyeci. İnsan sevgisiyle dolu, gözlemci bir yazar.","image":"/images/sait-faik.jpg"},
+  {"id":"y5","name":"Halide Edip Adıvar","shortBio_tr":"Millî mücadelenin cesur kalemi, kadın hakları savunucusu ve toplumsal dönüşüm yazarı. Tarihi romanlarıyla tanınır.","image":"/images/halide-edip.jpg"},
+  {"id":"y6","name":"Cemal Süreya","shortBio_tr":"İkinci Yeni akımının lirik ve duygusal şairi. Aşk, yalnızlık ve özlem temalarını çarpıcı imgelerle işleyen usta bir kalem.","image":"/images/cemal-sureya.jpg"}
+]

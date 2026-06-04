@@ -1,0 +1,197 @@
+[
+  {
+    "id": "q01",
+    "version": 1,
+    "active": true,
+    "order": 1,
+    "text": { "tr": "Boş bir akşamda ne yaparsın?" },
+    "options": [
+      { "key": "A", "text": { "tr": "Derin bir roman okurum veya felsefi düşüncelere dalarım." }, "scores": { "y3": 3, "y1": 1 } },
+      { "key": "B", "text": { "tr": "Kısa ve sade şiirler yazar veya sıradan günün tadını çıkarırım." }, "scores": { "y2": 3, "y6": 1 } },
+      { "key": "C", "text": { "tr": "Deniz kenarında yürür, insanları ve dalgaları izlerim." }, "scores": { "y4": 3, "y2": 1 } },
+      { "key": "D", "text": { "tr": "Tarihsel belgeseller izler veya memleket meselelerini okurum." }, "scores": { "y5": 3, "y1": 2 } }
+    ]
+  },
+  {
+    "id": "q02",
+    "version": 1,
+    "active": true,
+    "order": 2,
+    "text": { "tr": "Hangi şehir veya bölgede yaşamak isterdin?" },
+    "options": [
+      { "key": "A", "text": { "tr": "Tarih ve kültür kokan, zamanın yavaş aktığı eski İstanbul sokaklarında." }, "scores": { "y3": 3, "y5": 1 } },
+      { "key": "B", "text": { "tr": "Sıradan insanların, balıkçıların olduğu bir sahil kasabasında." }, "scores": { "y4": 3, "y2": 2 } },
+      { "key": "C", "text": { "tr": "Bohem, her köşesinde bir şiir ve kahve kokusu olan canlı bir şehir merkezinde." }, "scores": { "y6": 3, "y2": 2 } },
+      { "key": "D", "text": { "tr": "Hürriyet mücadelesinin verildiği, hareketli ve idealist bir başkentte." }, "scores": { "y1": 3, "y5": 2 } }
+    ]
+  },
+  {
+    "id": "q03",
+    "version": 1,
+    "active": true,
+    "order": 3,
+    "text": { "tr": "Bir tartışmada genel olarak nasıl bir tavır alırsın?" },
+    "options": [
+      { "key": "A", "text": { "tr": "Fikirlerimi sonuna kadar ateşli bir şekilde savunurum." }, "scores": { "y1": 3, "y5": 1 } },
+      { "key": "B", "text": { "tr": "Mizah ve hiciv kullanarak gerginliği yumuşatırım." }, "scores": { "y2": 3, "y6": 1 } },
+      { "key": "C", "text": { "tr": "Sakin kalır, olayları zamansal ve felsefi bir boyutta analiz ederim." }, "scores": { "y3": 3 } },
+      { "key": "D", "text": { "tr": "İnsanları dinler, onların duygularını anlamaya çalışırım." }, "scores": { "y4": 3, "y6": 2 } }
+    ]
+  },
+  {
+    "id": "q04",
+    "version": 1,
+    "active": true,
+    "order": 4,
+    "text": { "tr": "Hangi mevsim iç dünyanı en iyi yansıtır?" },
+    "options": [
+      { "key": "A", "text": { "tr": "Sonbahar - Melankoli, hüzün ve derin düşünce." }, "scores": { "y3": 3, "y6": 1 } },
+      { "key": "B", "text": { "tr": "İlkbahar - Yeniden doğuş, sadelik ve yaşama sevinci." }, "scores": { "y2": 3, "y4": 2 } },
+      { "key": "C", "text": { "tr": "Yaz - Canlılık, aşk ve coşkulu hisler." }, "scores": { "y6": 3, "y1": 1 } },
+      { "key": "D", "text": { "tr": "Kış - Kararlılık, mücadele ve içe dönüş." }, "scores": { "y1": 3, "y5": 3 } }
+    ]
+  },
+  {
+    "id": "q05",
+    "version": 1,
+    "active": true,
+    "order": 5,
+    "text": { "tr": "Bir kitap yazacak olsan türü kesinlikle ne olurdu?" },
+    "options": [
+      { "key": "A", "text": { "tr": "Toplumsal haksızlıklara karşı duran bir manifesto veya tiyatro eseri." }, "scores": { "y1": 3, "y5": 1 } },
+      { "key": "B", "text": { "tr": "Gündelik hayatı ve sokağın sesini anlatan yalın şiirler." }, "scores": { "y2": 3, "y4": 1 } },
+      { "key": "C", "text": { "tr": "Zaman, rüya ve bilinçaltını kurcalayan derin bir roman." }, "scores": { "y3": 3 } },
+      { "key": "D", "text": { "tr": "Aşkı, tutkuyu ve lirik duyguları işleyen çarpıcı şiirler." }, "scores": { "y6": 3, "y2": 1 } }
+    ]
+  },
+  {
+    "id": "q06",
+    "version": 1,
+    "active": true,
+    "order": 6,
+    "text": { "tr": "Dostlarınla bir araya geldiğinde nasıl vakit geçirirsin?" },
+    "options": [
+      { "key": "A", "text": { "tr": "Fikir tartışmaları yapar, ülke meselelerini konuşuruz." }, "scores": { "y1": 3, "y5": 2 } },
+      { "key": "B", "text": { "tr": "Meyhanede veya salas bir çay bahçesinde içten sohbetler ederiz." }, "scores": { "y4": 3, "y2": 3 } },
+      { "key": "C", "text": { "tr": "Sanat galerisi gezer veya müzik üzerine konuşuruz." }, "scores": { "y3": 3, "y6": 1 } },
+      { "key": "D", "text": { "tr": "Sıradan şeylerden konuşur, bol bol güleriz." }, "scores": { "y2": 3, "y4": 1 } }
+    ]
+  },
+  {
+    "id": "q07",
+    "version": 1,
+    "active": true,
+    "order": 7,
+    "text": { "tr": "Sana en yakın müzik tarzı hangisidir?" },
+    "options": [
+      { "key": "A", "text": { "tr": "Coşkulu, marş ritminde veya protest şarkılar." }, "scores": { "y1": 3, "y5": 1 } },
+      { "key": "B", "text": { "tr": "Sade halk türküleri veya akustik tınılar." }, "scores": { "y2": 3, "y4": 2 } },
+      { "key": "C", "text": { "tr": "Klasik müzik veya geleneksel sanat müziği." }, "scores": { "y3": 3 } },
+      { "key": "D", "text": { "tr": "Lirik şansonlar veya romantik caz melodileri." }, "scores": { "y6": 3, "y4": 1 } }
+    ]
+  },
+  {
+    "id": "q08",
+    "version": 1,
+    "active": true,
+    "order": 8,
+    "text": { "tr": "Bir filmde başrol oynasan, karakterin nasıl olurdu?" },
+    "options": [
+      { "key": "A", "text": { "tr": "Halkı arkasından sürükleyen cesur bir devrimci." }, "scores": { "y1": 3, "y5": 2 } },
+      { "key": "B", "text": { "tr": "Kendi halinde yaşayan, sokaktaki detayları gözlemleyen biri." }, "scores": { "y4": 3, "y2": 2 } },
+      { "key": "C", "text": { "tr": "Zamanda yolculuk yapıp geçmişi arayan gizemli bir aydın." }, "scores": { "y3": 3 } },
+      { "key": "D", "text": { "tr": "Aşkı için her şeyi göze alan romantik bir aşık." }, "scores": { "y6": 3, "y2": 1 } }
+    ]
+  },
+  {
+    "id": "q09",
+    "version": 1,
+    "active": true,
+    "order": 9,
+    "text": { "tr": "Güne başlarken sabah rutinin nasıldır?" },
+    "options": [
+      { "key": "A", "text": { "tr": "Gazeteleri okur, dünyada ne olup bittiğini hemen öğrenirim." }, "scores": { "y1": 3, "y5": 2 } },
+      { "key": "B", "text": { "tr": "Uzun uzun çay/kahve içer, rüyalarımı ve geçmişi düşünürüm." }, "scores": { "y3": 3, "y6": 1 } },
+      { "key": "C", "text": { "tr": "Hemen sokağa fırlar, mahallede ufak bir tur atarım." }, "scores": { "y4": 3, "y2": 2 } },
+      { "key": "D", "text": { "tr": "Sakin ve plansız bir şekilde günün getireceklerini beklerim." }, "scores": { "y2": 3, "y6": 1 } }
+    ]
+  },
+  {
+    "id": "q10",
+    "version": 1,
+    "active": true,
+    "order": 10,
+    "text": { "tr": "Kendini hangi hayvana daha yakın hissediyorsun?" },
+    "options": [
+      { "key": "A", "text": { "tr": "Aslan - Cesur, koruyucu ve lider ruhlu." }, "scores": { "y1": 3, "y5": 1 } },
+      { "key": "B", "text": { "tr": "Serçe - Özgür, telaşsız ve sokakların neşesi." }, "scores": { "y2": 3, "y4": 2 } },
+      { "key": "C", "text": { "tr": "Baykuş - Bilge, geceyi seven ve derin düşünen." }, "scores": { "y3": 3 } },
+      { "key": "D", "text": { "tr": "Kedi - Bağımsız, meraklı ve estetiğe önem veren." }, "scores": { "y6": 3, "y4": 1 } }
+    ]
+  },
+  {
+    "id": "q11",
+    "version": 1,
+    "active": true,
+    "order": 11,
+    "text": { "tr": "Hayalindeki tatil tarzı hangisidir?" },
+    "options": [
+      { "key": "A", "text": { "tr": "Tarihi ve mimari yapıları inceleyeceğim kültürel bir gezi." }, "scores": { "y3": 3, "y5": 2 } },
+      { "key": "B", "text": { "tr": "Bir balıkçı köyünde sessiz ve sakin kafa dinleme." }, "scores": { "y4": 3, "y2": 2 } },
+      { "key": "C", "text": { "tr": "Plansızca bilmediğim sokaklarda kaybolma." }, "scores": { "y2": 3, "y6": 1 } },
+      { "key": "D", "text": { "tr": "Sevdiğim insanla baş başa romantik bir kaçamak." }, "scores": { "y6": 3, "y4": 1 } }
+    ]
+  },
+  {
+    "id": "q12",
+    "version": 1,
+    "active": true,
+    "order": 12,
+    "text": { "tr": "Bir süper gücün olmasını istesen hangisini seçerdin?" },
+    "options": [
+      { "key": "A", "text": { "tr": "İnsanları etkileme ve kitleleri harekete geçirme gücü." }, "scores": { "y1": 3, "y5": 2 } },
+      { "key": "B", "text": { "tr": "Zamanı durdurma veya zamanda geriye gitme gücü." }, "scores": { "y3": 3 } },
+      { "key": "C", "text": { "tr": "Görünmez olup sokaklarda rahatça dolaşabilme gücü." }, "scores": { "y4": 3, "y2": 2 } },
+      { "key": "D", "text": { "tr": "Kırık kalpleri şifa verme ve sevgiyi yayma gücü." }, "scores": { "y6": 3, "y2": 1 } }
+    ]
+  },
+  {
+    "id": "q13",
+    "version": 1,
+    "active": true,
+    "order": 13,
+    "text": { "tr": "Günlük hayatında en sık hissettiğin duygu hangisidir?" },
+    "options": [
+      { "key": "A", "text": { "tr": "Haksızlıklara karşı duyulan öfke ve adalet arzusu." }, "scores": { "y1": 3, "y5": 2 } },
+      { "key": "B", "text": { "tr": "Küçük ve sıradan şeylerden duyulan yaşama sevinci." }, "scores": { "y2": 3, "y4": 2 } },
+      { "key": "C", "text": { "tr": "Geçmişe duyulan özlem ve melankoli." }, "scores": { "y3": 3, "y6": 1 } },
+      { "key": "D", "text": { "tr": "Yoğun aşk, tutku ve lirik bir heyecan." }, "scores": { "y6": 3, "y2": 1 } }
+    ]
+  },
+  {
+    "id": "q14",
+    "version": 1,
+    "active": true,
+    "order": 14,
+    "text": { "tr": "Önemli bir mektup yazacak olsan bunu kime ithaf ederdin?" },
+    "options": [
+      { "key": "A", "text": { "tr": "Gelecek nesillere ve vatan evlatlarına." }, "scores": { "y1": 3, "y5": 2 } },
+      { "key": "B", "text": { "tr": "Sokakta gördüğüm ama hiç tanımadığım bir yabancıya." }, "scores": { "y4": 3, "y2": 2 } },
+      { "key": "C", "text": { "tr": "Hiç kavuşamadığım veya kaybettiğim büyük aşkıma." }, "scores": { "y6": 3, "y3": 1 } },
+      { "key": "D", "text": { "tr": "Kendi iç sesime ve ruhuma." }, "scores": { "y3": 3, "y2": 1 } }
+    ]
+  },
+  {
+    "id": "q15",
+    "version": 1,
+    "active": true,
+    "order": 15,
+    "text": { "tr": "Hayat felsefen hangisine en yakındır?" },
+    "options": [
+      { "key": "A", "text": { "tr": "Hürriyet ve adalet için sonuna kadar mücadele etmek." }, "scores": { "y1": 3, "y5": 2 } },
+      { "key": "B", "text": { "tr": "Günü yaşamak, küçük şeylerden keyif alıp tasasız olmak." }, "scores": { "y2": 3, "y4": 2 } },
+      { "key": "C", "text": { "tr": "Zamanın ve tarihin akışındaki estetik uyumu yakalamak." }, "scores": { "y3": 3 } },
+      { "key": "D", "text": { "tr": "Duyguları, aşkı ve hüznü en uç noktalarda hissetmek." }, "scores": { "y6": 3, "y2": 1 } }
+    ]
+  }
+]
